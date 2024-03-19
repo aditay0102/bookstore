@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#btn{
+    background-color: #F3F0E8;
+}
+
+.title{
+    
+}
+
+#Maintitle{
+
+}
+
+#tbl{
+    background-color: #F5F5F5;
+    padding-left: 2.5rem;
+    padding-top: 1.5rem;
+    margin-top: 0.5rem;
+    border-radius: 20px;
+    
+}
+
+#home{
+    color: #1D3D94  ;
+}
+
+body{
+    background-color: #F3DBD6;
+    
+}
